@@ -1,5 +1,3 @@
-
-
 # 📌 OneBitX 🚀
 
 ## Home:
@@ -7,6 +5,7 @@
 <p align="center">
     <img width="900" src="https://user-images.githubusercontent.com/119512258/236235077-8e37a8d0-14f5-4c9c-ac93-e485f6aaee7e.PNG">
 </p>
+
 
 ## Falcon 9:
 
@@ -25,6 +24,13 @@
 This is a conclusion project of Bootstrap course carried out in One Bit Code platform, where it was proposed to create a clone of the SpaceX page, using HTML, CSS and Bootstrap.
 
 
+## 📝 Site Composition:
+
+The first page takes place between four sections that present an overview about the missions and return of astronauts to Earth.
+
+Falcon 9. This page is intended to present the first reusable orbital class rocket, still on the page we have two carousels, the first presents details about the parts that make up the Falcon 9, the second presents related images.
+
+Human Spaceflight is the last page to be created, made with the purpose of demonstrating some missions proposed by SpaceX.
 
 
 ## 🔧Prerequisites
@@ -50,15 +56,14 @@ By opening the `index.html` file in your internet browser, you will have access 
 </div>
 
 ## 🔗 Link
-  [Site demo](https://tiagocoder2022.github.io/mundo-invertido/)
+  [Site demo](https://tiagocoder2022.github.io/OneBitX/)
 
 ##  💬Covered Topics
 - HTML
     - Structuring the page
     - Semantics
     - Accessibility
-    - Web Scraping
-    - SEO
+    - Web Scraping    
 - CSS
     - Placements
     - Pseudo-elements
